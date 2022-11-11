@@ -40,7 +40,7 @@ const Projects = () => {
             tech="React JS"
           />
           <ProjectItem
-            title="Shopping Cart"
+            title="Credit Score"
             backgroundImg={credit}
             projectUrl="/creditScore"
             tech="React JS"
